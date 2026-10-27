@@ -1,0 +1,7 @@
+# Large files (>100MB exceeds GitHub limit)
+Brand Guidelines - Lunara (1).pdf
+
+# Local environment & editor configs
+.vscode/
+.DS_Store
+Thumbs.db
